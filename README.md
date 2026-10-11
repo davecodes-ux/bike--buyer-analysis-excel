@@ -44,4 +44,3 @@ To make the dashboard fully dynamic and interactive, the following Excel slicers
 * **Geographic Focus:** Compare regional sales performance to allocate inventory effectively.
 * **Demographic Tailoring:** Design promotional campaigns tailored to specific educational or gender segments that show high conversion rates.
 
-*Feel free to reach out or open an issue if you have suggestions for expanding this Excel model or adding forecasting features!*
