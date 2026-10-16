@@ -43,4 +43,6 @@ To make the dashboard fully dynamic and interactive, the following Excel slicers
 * **Targeted Marketing:** Identify high-performing occupations and commute distances to optimize digital ad spend.
 * **Geographic Focus:** Compare regional sales performance to allocate inventory effectively.
 * **Demographic Tailoring:** Design promotional campaigns tailored to specific educational or gender segments that show high conversion rates.
-
+ contact
+ https://davecodes-ux.github.io/bike--buyer-analysis-excel/
+Email:ugwuchinedu242@gmail.com
