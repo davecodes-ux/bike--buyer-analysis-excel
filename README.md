@@ -45,4 +45,4 @@ To make the dashboard fully dynamic and interactive, the following Excel slicers
 * **Demographic Tailoring:** Design promotional campaigns tailored to specific educational or gender segments that show high conversion rates.
 ## contact
  https://davecodes-ux.github.io/bike--buyer-analysis-excel/
-Email:ugwuchinedu242@gmail.com
+ Email:ugwuchinedu242@gmail.com
